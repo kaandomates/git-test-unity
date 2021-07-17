@@ -143,3 +143,19 @@ Received Import Request.
 Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.004934 seconds 
   Import took 0.009498 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 672.961944 seconds.
+  path: Assets/test.cs
+  artifactKey: Guid(8e66c8020fdb5406fafe8917b9aa377d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test.cs using Guid(8e66c8020fdb5406fafe8917b9aa377d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922652d24fc9d123b1b01aa2df76c934') in 0.004842 seconds 
+  Import took 0.035234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001238 seconds.
+  path: Assets/test.cs
+  artifactKey: Guid(8e66c8020fdb5406fafe8917b9aa377d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test.cs using Guid(8e66c8020fdb5406fafe8917b9aa377d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922652d24fc9d123b1b01aa2df76c934') in 0.000856 seconds 
+  Import took 0.005810 seconds .
+
