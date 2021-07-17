@@ -214,3 +214,23 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 397.498631 seconds.
+  path: Assets/test2.cs
+  artifactKey: Guid(f5b931208fb08f485ad213c06af24d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test2.cs using Guid(f5b931208fb08f485ad213c06af24d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '163c3700fcdec136fc8aefbcc4bfb3ff') in 0.014444 seconds 
+  Import took 0.021553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012825 seconds.
+  path: Assets/test2.cs
+  artifactKey: Guid(f5b931208fb08f485ad213c06af24d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test2.cs using Guid(f5b931208fb08f485ad213c06af24d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '163c3700fcdec136fc8aefbcc4bfb3ff') in 0.000781 seconds 
+  Import took 0.004682 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004156 seconds.
